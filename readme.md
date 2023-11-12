@@ -1,4 +1,4 @@
-# Vacation Auto-Reply App
+#Auto-Reply Gmail App
 
 ## Overview
 
