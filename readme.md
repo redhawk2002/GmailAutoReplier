@@ -38,5 +38,6 @@ Feel free to contribute to the project by addressing the identified areas for im
 
 ### Demonstration Video
 
-Uploading homeAssignment (1) (1).mp4…
+https://github.com/redhawk2002/GmailAutoReplier/assets/77795912/98756ab6-73b6-429c-87a6-51649a5b4457
+
 
