@@ -1,5 +1,8 @@
 # Auto-Reply Gmail App
 
+![image](https://github.com/redhawk2002/GmailAutoReplier/assets/77795912/6cc5c93e-27eb-419b-b298-0ddbf47b9d55)
+
+
 ## Overview
 
 This Node.js-based application automates responses to emails received in a Gmail mailbox during a user's vacation. It utilizes Google APIs for tasks such as logging in, checking for new emails, sending replies, and managing labels.
